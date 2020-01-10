@@ -1,0 +1,18 @@
+.skeleon-item {
+  margin: 6px;
+  border: 1px solid #DFE3EA;
+  width: 180px;
+  height: 180px;
+  
+  .item-image {
+    width: 180px;
+    height: 140px;
+    background-color: #E9EEF1;
+  }
+  .item-content {
+    margin: 0.7rem 0  0 0.4rem;
+    height: 1rem;
+    width: 3rem;
+    background-color:  rgba(0, 0, 0, 0.35);
+  }
+}

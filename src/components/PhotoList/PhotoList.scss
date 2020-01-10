@@ -1,0 +1,10 @@
+.photo-list {
+  .title {
+    font-size: 16px;
+    font-family: 500;
+  }
+  .photos {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+  }
+}

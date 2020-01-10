@@ -1,0 +1,42 @@
+.pagination {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .right {
+    transform: translateY(-2px);
+  }
+  .left {
+    transform: translateY(-2px);
+  }
+  
+  li {
+    img {
+      width: 24px;
+      height: 24px;
+    }
+  }
+
+  .page-item {
+    width:28px;
+    height:28px;
+    :hover {
+      background-color: #EBF0F4;
+      color: blue;
+    }
+    .active {
+      background-color: #EBF0F4;
+      color: blue;
+      font-weight: 500;
+    }
+    a { 
+      color: #adafb6;
+      font-size: 13px;
+      font-weight: normal;
+      letter-spacing: -0.36px;
+      text-align:center;
+      text-decoration:none;
+    }
+  }
+} 
