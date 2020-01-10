@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <a href="https://image.rocketpunch.com/company/19135/nearthlab_logo_1535963864.png?s=400x400&t=inside" alt="nearthlab" width="128"></a>
+  <a href="https://nearthlab.com/ko/"><img src="https://image.rocketpunch.com/company/19135/nearthlab_logo_1535963864.png?s=400x400&t=inside" alt="nearthlab" width="128"></a>width="128"></a>
 <br>
 <br>
 Nearthlab-Coding-Test
@@ -10,8 +10,6 @@ Nearthlab-Coding-Test
 
 <p align="center">
   
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="Welcome">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License MIT">
 </p>
 
 <hr />
@@ -24,7 +22,7 @@ Nearthlab-Coding-Test
   필수구현사항 중 상세페이지에서 완료버튼을 눌렀을때 브라우저 내 localstorage를 사용하여 
   컴포넌트가 리렌더링하여도 변화된 상태를 담을 수 있게 구현하였습니다. 
   
-  Demo test는 아래 링크를 눌러주세요. 
+  Demo test는 아래 링크를 눌러주세요. <br/>
   https://modest-villani-e659d3.netlify.com/
 
 ## Project Stack
