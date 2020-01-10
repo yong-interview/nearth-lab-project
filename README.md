@@ -1,6 +1,8 @@
 <h1 align="center">
 <br>
-  <a href="https://nearthlab.com/ko/"><img src="https://image.rocketpunch.com/company/19135/nearthlab_logo_1535963864.png?s=400x400&t=inside" alt="nearthlab" width="128"></a>width="128"></a>
+  <a href="https://nearthlab.com/ko/">
+    <img src="https://image.rocketpunch.com/company/19135/nearthlab_logo_1535963864.png?s=400x400&t=inside" alt="nearthlab" width="128">
+  </a>
 <br>
 <br>
 Nearthlab-Coding-Test
