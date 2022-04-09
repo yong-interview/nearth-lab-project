@@ -9,7 +9,7 @@
     "axios": "^0.19.1",
     "immutable": "^4.0.0-rc.12",
     "modules": "^0.4.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-sass": "^4.13.0",
     "query-string": "^6.9.0",
     "react": "^16.12.0",
